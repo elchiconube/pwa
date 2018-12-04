@@ -6,7 +6,7 @@ const IMMUTABLE_CACHE = 'immutable-cache-v1';
 
 // Definimos el corazón de nuestra app con nuestro código
 const APP_SHELL = [
-  '/',
+  // '/',
   'index.html',
   'css/style.css',
   'img/favicon.ico',

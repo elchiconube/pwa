@@ -69,3 +69,12 @@ p {
 hr{
     border-color: #fff;
 }
+
+figure img {
+	max-width: 100%;
+}
+
+.container {
+	width: 90%;
+	margin: 0 auto;
+}
